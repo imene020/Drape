@@ -1,0 +1,7 @@
+numpy
+pandas
+pyarrow
+pillow>=10.1
+huggingface_hub
+gradio>=5
+pytest
